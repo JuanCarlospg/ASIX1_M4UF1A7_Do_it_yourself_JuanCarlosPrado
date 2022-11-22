@@ -31,4 +31,4 @@ Los elementos `a` que sean hijos directos de algún `li` tendrán un padding de 
 Los elementos `table, th, td` deben de estar con borde de `1px solid`, alineada al centro con margen automatico
     
 ### Regla 10. 
-Los elementos `img` tendrán un ancho de `50%`, esquinas redondeadas con valor de `8px` y con un margen automatico 
+Los elementos `img` tendrán un ancho de `50%`, esquinas redondeadas con valor de `8px` se necesita poner (display:block;) y con un margen automatico 
