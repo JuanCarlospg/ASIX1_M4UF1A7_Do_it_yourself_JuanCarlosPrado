@@ -2,7 +2,7 @@
 ### Regla 1. 
 
 Utilizar el selector universal para cambiar el tipo de fuente del documento 
-(@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');)
+(@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 font-family: 'Merriweather', serif;
 
 ### Regla 2. 
