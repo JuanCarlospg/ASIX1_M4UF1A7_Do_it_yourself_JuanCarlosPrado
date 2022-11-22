@@ -4,13 +4,13 @@
 Utilizar el selector universal para cambiar el tipo de fuente del documento
 
 ### Regla 2. 
-El elemento `body` tendrá margen `2%`, cambiar el fondo a `Gris claro`
+El elemento `body` tendrá margen `2%`, cambiar el fondo a `Gris claro(#dce0e0)`
     
 ### Regla 3. 
-Los elementos `h1` estarán subrayados de color `Granate` y alineado al centro
+Los elementos `h1` estarán subrayados de color `Granate(#ab2a3e)` y alineado al centro
 
 ### Regla 4. 
-Los elementos `h2` estarán de color `Granate` y alineado al centro
+Los elementos `h2` estarán de color `Granate(#ab2a3e)` y alineado al centro
 
 ### Regla 5. 
 Los elementos con identificador (id) `ImgPrincipales` tendrán una anchura de imagen `50%` con un padding de izquierda y derecha `20%`
